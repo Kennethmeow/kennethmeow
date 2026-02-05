@@ -5,13 +5,12 @@
  <table>
   <tr>
     <td width="180" valign="top">
-      <img src="https://link-da-imagem.png" width="160"/>
+      <img src="https://i.imgur.com/bSTsjd9.png" width="160"/>
     </td>
     <td valign="top">
-      <h2>Quem sou eu?</h2>
+      <h2>who i am?</h2>
       <p>
-        Seu texto aqui<br><br>
-        Pode ser longo sem problema.
+        error.<br><br>
       </p>
     </td>
   </tr>
