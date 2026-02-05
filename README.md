@@ -36,5 +36,5 @@
 
 >Atuando com expêriencia na área de ```Graphic & Digital Design.```
 
->```2d Concept & Digital Artist nas horas vagas.```
+>```2d Concept & Digital Artist``` nas horas vagas.
    </p>
