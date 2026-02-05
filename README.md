@@ -2,7 +2,6 @@
 # 404 Not Found
 ![teste](https://i.imgur.com/jR2zwxj.gif)
 
-<table>
   <tr>
     <td width="200">
       <img src="https://link-da-imagem.png" width="180"/>
@@ -15,4 +14,3 @@
       </p>
     </td>
   </tr>
-</table>
