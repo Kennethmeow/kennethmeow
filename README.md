@@ -7,9 +7,9 @@
 
 <!-- Table w bio -->
 <!-- Table w bio -->
-<table width="700" align="center">
+<table width="500" align="center">
   <tr>
-    <td width="300" valign="top">
+    <td width="200" valign="top">
       <img src="https://i.imgur.com/bSTsjd9.png" width="300"/>
     </td>
     <td valign="top">
