@@ -6,16 +6,14 @@
 ![teste](https://i.imgur.com/jR2zwxj.gif)
 
 <!-- Table w bio -->
- <table widht="100%">
+<table width="100%">
   <tr>
     <td width="180" valign="top">
       <img src="https://i.imgur.com/bSTsjd9.png" width="300"/>
     </td>
     <td valign="top">
       <h2>who i am?</h2>
-      <p>
-        error.??>/,,?>1243134234w2?$>4?#$>>?>?>4#$.2#%>$>@%##########2#%>?2$#?%>24?%>@#?%.@#%>?@#?@######$@#?$@#?$@>#$@<br><br>
-      </p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=6000&amp;pause=5000&amp;color=F7F7F7&amp;width=435&amp;lines=error.+error+%23%23%23sF+%25%251100101+01110010+01110010+01101111+01110010+-+error"/>
     </td>
   </tr>
 </table>
