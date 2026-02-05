@@ -10,7 +10,7 @@
     <td valign="top">
       <h2>who i am?</h2>
       <p>
-        error.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa<br><br>
+        error.??>/,,?>1243134234w2?$>4?#$>>?>?>4#$.2#%>$>@%##########2#%>?2$#?%>24?%>@#?%.@#%>?@#?@######$@#?$@#?$@>#$@<br><br>
       </p>
     </td>
   </tr>
