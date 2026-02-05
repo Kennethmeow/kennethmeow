@@ -16,5 +16,5 @@
   </tr>
 </table>
 <a href="https://seulink.com" target="_blank">
-  <img src="https://img.shields.io/badge/Acessar-Perfil-808080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/error-404-808080?style=for-the-badge" />
 </a>
