@@ -27,9 +27,8 @@
 </a>
 </p>
 
-<!-- idk -->
-<h1 align="center"> ? </h1>
-    <p> 
+<!-- biobiobio -->
+  <p> 
      
 >Estudante de ```Desenvolvimento Front-End, Pyhton e outras linguagens```. Em constante evolução, buscando aprimorar meu portfólio e habilidades técnicas para crescer de forma profissional na área de tecnologia.
 
