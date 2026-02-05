@@ -17,6 +17,7 @@
 </table>
 
 <p align="center">
+ <button width="200">
 <a href="https://www.southparkstudios.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/error-404-808080?style=for-the-badge" />
 </a>
