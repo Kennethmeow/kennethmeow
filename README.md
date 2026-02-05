@@ -15,6 +15,9 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
 <a href="https://seulink.com" target="_blank">
   <img src="https://img.shields.io/badge/error-404-808080?style=for-the-badge" />
 </a>
+</p>
