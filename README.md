@@ -1,7 +1,11 @@
 
+<!-- START -->
+
+<!-- Cyber Kanjis Gif -->
 # 404 Not Found
 ![teste](https://i.imgur.com/jR2zwxj.gif)
 
+<!-- Table w bio -->
  <table widht="100%">
   <tr>
     <td width="180" valign="top">
@@ -16,6 +20,7 @@
   </tr>
 </table>
 
+<!-- Button -->
 <p align="center">
 <a href="https://www.southparkstudios.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/error-404-808080?style=for-the-badge" />
