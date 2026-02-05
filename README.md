@@ -8,12 +8,12 @@
 <!-- Table w bio -->
 <table width="100%">
   <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://i.imgur.com/bSTsjd9.png" width="100%" style="max-width:300px;"/>
+    <td width="250" valign="top">
+      <img src="https://i.imgur.com/bSTsjd9.png" width="250"/>
     </td>
-    <td width="70%" valign="top">
+    <td valign="top">
       <h2>who i am?</h2>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=5000&color=F7F7F7&width=380&lines=error.+error+%23%23%23sF+%25251100101+01110010+01110010+01101111+01110010+error" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=5000&color=F7F7F7&width=1000&lines=error.+error+%23%23%23rRRrreeerrOoRrr+%25%251100101+01110010+01110010+01101111+01110010+error" alt="Typing effect" />
     </td>
   </tr>
 </table>
