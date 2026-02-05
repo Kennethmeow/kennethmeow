@@ -13,7 +13,7 @@
     </td>
     <td valign="top">
       <h2>who i am?</h2>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=5000&color=F7F7F7&width=1000&lines=error.+error+%23%23%23rRRrreeerrOoRrr+%25%251100101+01110010+01110010+01101111+01110010+error" alt="Typing effect" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=6000&pause=5000&color=F7F7F7&width=1500&height=70&lines=error.+error+%23%23%23rRRrreeerrOoRrr+%25%251100101+01110010+01110010+01101111+01110010+error" alt="Typing effect" />
     </td>
   </tr>
 </table>
