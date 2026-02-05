@@ -28,6 +28,5 @@
 </p>
 
 <!-- idk -->
-  <p text align="center">
-<h1> ? </h1>
-  </p>
+
+<h1 align="center"> ? </h1>
