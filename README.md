@@ -6,17 +6,19 @@
 ![teste](https://i.imgur.com/jR2zwxj.gif)
 
 <!-- Table w bio -->
-<table width="100%">
+<!-- Table w bio -->
+<table width="700" align="center">
   <tr>
-    <td width="180" valign="top">
+    <td width="300" valign="top">
       <img src="https://i.imgur.com/bSTsjd9.png" width="300"/>
     </td>
     <td valign="top">
       <h2>who i am?</h2>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=6000&amp;pause=5000&amp;color=F7F7F7&amp;width=435&amp;lines=error.+error+%23%23%23sF+%25%251100101+01110010+01110010+01101111+01110010+-+error"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=6000&amp;pause=5000&amp;color=F7F7F7&amp;width=380&amp;lines=error.+error+%23%23%23sF+%25%251100101+01110010+01110010+01101111+01110010+-+error"/>
     </td>
   </tr>
 </table>
+
 
 <!-- Button -->
 <p align="center">
