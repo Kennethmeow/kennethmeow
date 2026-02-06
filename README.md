@@ -28,13 +28,13 @@
 <!-- biobiobio -->
 <div align="left">
 
-> Estudante de `Desenvolvimento Front-End, Python e outras linguagens`.Em constante evolução, buscando aprimorar meu portfólio e habilidades técnicas para crescer de forma profissional na área de tecnologia.
+> #### Estudante de `Desenvolvimento Front-End, Python e outras linguagens`.Em constante evolução, buscando aprimorar meu portfólio e habilidades técnicas para crescer de forma profissional na área de tecnologia.
 
-> Estudante de `Cybersecurity`, com foco em `Kali Linux`.Explorando fundamentos de segurança da informação, testes de vulnerabilidade e boas práticas de proteção de sistemas.
+> #### Estudante de `Cybersecurity`, com foco em `Kali Linux`.Explorando fundamentos de segurança da informação, testes de vulnerabilidade e boas práticas de proteção de sistemas.
 
-> Atuando com experiência na área de `Graphic & Digital Design`.
+> #### Atuando com experiência na área de `Graphic & Digital Design`.
 
-> `2d Concept & Digital Artist` nas horas vagas.
+> #### `2d Concept & Digital Artist` nas horas vagas.
 
   </div>
 
