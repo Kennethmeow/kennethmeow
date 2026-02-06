@@ -36,4 +36,16 @@
 
 > `2d Concept & Digital Artist` nas horas vagas.
 
+  </div>
+
+<!--- stacks icons --->
+
+<div align="center">
+<h2>?</h2>
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br>
+  <img src="https://skillicons.dev/icons?i=java,cpp,linux,powershell" /><br>
+  <img src="https://skillicons.dev/icons?i=photoshop,figma,blender,godot" /><br>
 </div>
