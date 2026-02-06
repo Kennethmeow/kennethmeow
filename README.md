@@ -12,7 +12,7 @@
       <img src="https://i.imgur.com/bSTsjd9.png" width="180"/>
     </td>
     <td valign="top">
-      <h2>who ᴉ am?</h2>
+      <h2>who i am?</h2>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=5000&color=F7F7F7&width=900&height=100&multiline=true&lines=error.+error+%23%23%23rRRrreeerrOoRrr+%25%25;1100101+01110010+01110010+01101111+01110010+error" alt="Typing effect" />
     </td>
   </tr>
@@ -39,6 +39,11 @@
   </div>
 
 <!--- stacks icons --->
+<br>
+<br> 
+<h1 align="center">Stacks Prioritárias & Estudos</h1>
+
+
 <div align="center">
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br>
@@ -57,5 +62,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=7000&pause=5000&color=F7F7F7&width=900&height=100&center=true&vCenter=true&lines=testing+phase..." alt="Typing effect" />
 </div>
+
+<!--- Additional info --->
+<br>
+<br>
 
 
