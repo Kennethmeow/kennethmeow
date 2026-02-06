@@ -39,9 +39,6 @@
   </div>
 
 <!--- stacks icons --->
-
-
-
 <div align="center">
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br>
@@ -49,3 +46,16 @@
   <img src="https://skillicons.dev/icons?i=photoshop,figma,blender,godot" /><br>
 
 </div>
+
+<!--- loading gif --->
+<br>
+<br>
+<p align="center">
+  <img src="https://i.imgur.com/DAgPtRY.gif" width="60"/>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=7000&pause=5000&color=F7F7F7&width=900&height=100&center=true&vCenter=true&lines=testing+phase..." alt="Typing effect" />
+</div>
+
+
