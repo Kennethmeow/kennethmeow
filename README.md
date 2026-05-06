@@ -3,7 +3,7 @@
 
 <!-- Cyber Kanjis Gif -->
 # 404 Not Found
-![teste](https://i.imgur.com/jR2zwxj.gif)
+<img src="https://i.imgur.com/EKc9p9z.gif" width="1200">
 
 <!-- Table w bio -->
 <table width="100%">
